@@ -1,0 +1,1 @@
+# an-intelligent-waste-segregation-system
